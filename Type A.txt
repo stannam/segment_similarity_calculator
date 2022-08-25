@@ -7,11 +7,25 @@ ts j k
 tʃ j k
 b n s
 b ʔ n
+b r dʒ
+b t m
+b tʃ n
+b l s
+b r n
+b ts n
+b tʃ r
+tʃ tʃ r
+tʃ k r
+tʃ p n
+tʃ r k
+f l ts
+f n d
+f d l
 f l s
 dʒ n t
 dʒ l t
-g n tʃ
-g d l
+ɡ n tʃ
+ɡ d l
 k b ts
 k n k
 k n ts
@@ -22,6 +36,28 @@ m n s
 m r k
 n m r
 p l m
+p n t
+p n t
+p r tʃ
+p t r
+r s t
+r b k
+r tʃ p
+r ʃ ʔ
+s n ɡ
+s r p
+s t r
+t k n
+t p n
+ts p n
+tʃ w l
+tʃ j m
+tʃ w tʃ
+tʃ w r
+f j r
+f j t
+k j t
+p j p
 p j ts
 t w b
 t j z
@@ -30,6 +66,8 @@ z m
 s k m r
 tʃ k
 d t r
+b r k n
+z n k
 b r dʒ
 ts j k
 tʃ p r
@@ -39,18 +77,44 @@ b m b l
 b n d l
 b r b r
 b s k t
+b n tʃ l
+b n dʒ l
+b r d l
+b r f l
+b r k l
+b ʃ k l
+tʃ j p r
+tʃ m p r
+tʃ n t r
+tʃ m p l
+tʃ n tʃ l
+tʃ n s r
+f n d ʔ
+f n t s
 f r t n
 f r k n
 f r n ʔ
 f r n z
 f r z n
 dʒ n d r
-g r b l
-g r n s
-g r w l
-g z g z
+ɡ r b l
+ɡ r n s
+ɡ r w l
+ɡ z ɡ z
 k m r d
 k r t b
+k w l t
+k tʃ n r
+k t l t
+k w t l
+l n z t
+l m b t
+m n t r
+m n w l
+m r t l
+m ʃ t r
+m n ts l
+n z n z
 n r v z
 p l p l
 p n ts r
@@ -64,6 +128,18 @@ p s p s
 p ʃ p ʃ
 p ts p ts
 ʔ n p n
+ʔ r d ʃ
+ʔ r w z
+r m b l
+r m p l
+r n dʒ t
+r tʃ p l
+r ʃ t l
+s f t r
+s n s r
+t n b r
+t r b tʃ
+t k t k
 ts p ts p
 ts k ts k
 ts r ts r

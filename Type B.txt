@@ -1,3 +1,11 @@
+f d j
+f ɡ j
+f r j
+ɡ z j
+l ts j
+r m j
+v z j
+w z j
 ʃ l j
 b t j
 b ʃ j
@@ -10,8 +18,23 @@ k tʃ j
 k r j
 l s j
 n n j
-g r j
-g d j
+p p j
+p s j
+p t j
+p ʃ j
+p ʃ j
+p dʒ j
+t f j
+t t j
+ʃ ʃ j
+b t j
+tʃ m j
+tʃ r j
+tʃ d j
+f r j
+dʒ v j
+ɡ r j
+ɡ d j
 k d j
 k l j
 k p j
@@ -19,12 +42,21 @@ k v j
 k z j
 p tʃ j
 r dʒ j
-v g j
+v ɡ j
 v r j
 v r j
 f tʃ j
+b l k j
+b n d j
+b s t j
+b m b j
+tʃ n t j
+f n d j
+f n dʒ j
+f n d j
+f r n j
 dʒ n dʒ j
-g w d j
+ɡ w d j
 k m p j
 k n dʒ j
 k n t j
@@ -35,7 +67,7 @@ m j n j
 p r l j
 p r t j
 p n dʒ j
-p ʃ k y
+p ʃ k j
 p z d j
 r ʃ k j
 r n d j
@@ -44,3 +76,8 @@ s l v j
 s r v j
 s l v j
 s r dʒ j
+t r n j
+v n tʃ j
+v l dʒ j
+z r m j
+r n dʒ j
