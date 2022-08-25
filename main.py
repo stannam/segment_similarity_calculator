@@ -54,6 +54,8 @@ def main(language_name, feature_matrix, method="frisch"):
                     temp.append(val)
                     nat_classes[key] = val
 
+            if not os.path.exists('output'):
+                os.makedirs('output')
             with open(f"./output/{language_name}.json", "w+", encoding='utf-8') as write_file:
                 json.dump(nat_classes, write_file, indent=4, ensure_ascii=False)
             print(f"[INFO] {language_name}.json created.")
